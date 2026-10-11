@@ -15,4 +15,5 @@ Plus a fair share of typo and docs fixes in Java projects I use.
 
 #### Also here
 
+- [macrofactor-to-wxr](https://github.com/jasper-vandemalle/macrofactor-to-wxr): a small CLI that logs my MacroFactor workouts in my weightxreps journal through its OAuth API.
 - [project-euler](https://github.com/jasper-vandemalle/project-euler): solutions I started in 2013 to learn Java, recently brought up to date.
